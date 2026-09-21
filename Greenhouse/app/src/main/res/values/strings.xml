@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Greenhouse</string>
+    <string name="sensorValues">🌡 Temperature: 0°C\n💧 Humidity: 0%\n🌱 Soil Moisture: 0%\nLast update: 00:00:00</string>
+</resources>
